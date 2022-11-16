@@ -11,3 +11,5 @@ https://MetAiTech.github.io/Powder_Metallurgy/ML_Analysis.html
 https://MetAiTech.github.io/Powder_Metallurgy/Sintering_Furnace_Analysis_Report_2021.html
 
 https://MetAiTech.github.io/Powder_Metallurgy/Sintering_Furnace_Analysis_Report_2021_CN.html
+
+https://MetAiTech.github.io/Powder_Metallurgy/20221116.html
