@@ -7,3 +7,7 @@ Data collection time: 7/29.
 ```Audio_Analysis_Report.html```: Audio analysis by statistic method.
 
 https://MetAiTech.github.io/Powder_Metallurgy/ML_Analysis.html
+
+https://MetAiTech.github.io/Powder_Metallurgy/Sintering_Furnace_Analysis_Report_2021.html
+
+https://MetAiTech.github.io/Powder_Metallurgy/Sintering_Furnace_Analysis_Report_2021_CN.html
