@@ -17,3 +17,8 @@ https://MetAiTech.github.io/Powder_Metallurgy/Sintering_Furnace_Analysis_Report_
 * 檔案: mp3
 
 https://MetAiTech.github.io/Powder_Metallurgy/20221116.html
+
+### 音頻分析-2022/11/29
+* 檔案: waf
+
+https://MetAiTech.github.io/Powder_Metallurgy/20221129.html
