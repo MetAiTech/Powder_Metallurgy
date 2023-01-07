@@ -27,5 +27,8 @@ https://MetAiTech.github.io/Powder_Metallurgy/20221129.html
 * 檔案: wav
 #### 100%原料粉-沒摔過 vs 100%胚品粉-沒摔過 (無背景音)
 
+https://MetAiTech.github.io/Powder_Metallurgy/20230107_1.html
 
 #### 100%胚品粉-有摔過 vs 100%胚品粉-沒摔過 (無背景音)
+
+https://MetAiTech.github.io/Powder_Metallurgy/20230107_2.html
