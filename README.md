@@ -19,6 +19,13 @@ https://MetAiTech.github.io/Powder_Metallurgy/Sintering_Furnace_Analysis_Report_
 https://MetAiTech.github.io/Powder_Metallurgy/20221116.html
 
 ### 音頻分析-2022/11/29
-* 檔案: waf
+* 檔案: wav
 
 https://MetAiTech.github.io/Powder_Metallurgy/20221129.html
+
+### 音頻分析-2023/01/07
+* 檔案: wav
+#### 100%原料粉-沒摔過 vs 100%胚品粉-沒摔過 (無背景音)
+
+
+#### 100%胚品粉-有摔過 vs 100%胚品粉-沒摔過 (無背景音)
